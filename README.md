@@ -1,2 +1,2 @@
 # Sigfox Breakout board - Arduino samples
-Sigfox Breakout board (BRKWS03)のArduino向けサンプルです。
+Sigfox Breakout board (BRKWS01 RC3)のArduino向けサンプルです。
